@@ -1,17 +1,17 @@
 {
- "started_at": "2026-10-30T02:21:33Z",
+ "started_at": "2026-10-30T15:00:28Z",
  "banners": {
   "newworld": {
    "stores_checked": 149,
    "stores_with_cyclops": 149,
-   "lines": 822,
+   "lines": 820,
    "errors": 0,
    "requests": 152
   },
   "paknsave": {
    "stores_checked": 58,
    "stores_with_cyclops": 56,
-   "lines": 231,
+   "lines": 229,
    "errors": 0,
    "requests": 61
   }
@@ -25,10 +25,8 @@
  "new_product_ids": [],
  "dropped_stores": [],
  "pending_removal": [],
- "added_stores": [
-  "New World Onekawa"
- ],
- "variety_changes": 4,
+ "added_stores": [],
+ "variety_changes": 5,
  "sheet": {
   "rows": 220,
   "rows_with_varieties": 0,
@@ -36,8 +34,8 @@
   "unknown_columns": [],
   "variety_columns": 11
  },
- "finished_at": "2026-10-30T02:31:52Z",
- "duration_s": 618,
+ "finished_at": "2026-10-30T15:11:13Z",
+ "duration_s": 646,
  "stores_total": 425,
  "stores_by_banner": {
   "Campus & Co": 7,
