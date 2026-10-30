@@ -1,0 +1,104 @@
+{
+  "brand": "Cyclops",
+  "search_term": "cyclops",
+  "varieties": [
+    {
+      "key": "greek-natural-750",
+      "label": "Greek Natural 750g",
+      "group": "Greek",
+      "foodstuffs_ids": [
+        "5094108-EA-000"
+      ]
+    },
+    {
+      "key": "greek-vanilla-bean-750",
+      "label": "Greek Vanilla Bean 750g",
+      "group": "Greek",
+      "foodstuffs_ids": [
+        "5263073-EA-000"
+      ]
+    },
+    {
+      "key": "greek-mango-500",
+      "label": "Greek Mango 500g",
+      "group": "Greek",
+      "foodstuffs_ids": [
+        "5321305-EA-000"
+      ]
+    },
+    {
+      "key": "greek-apple-cinnamon-500",
+      "label": "Greek Apple & Cinnamon 500g",
+      "group": "Greek",
+      "foodstuffs_ids": [
+        "5321304-EA-000"
+      ]
+    },
+    {
+      "key": "greek-mixed-berry-500",
+      "label": "Greek Mixed Berry 500g",
+      "group": "Greek",
+      "foodstuffs_ids": [
+        "5321306-EA-000"
+      ]
+    },
+    {
+      "key": "thick-creamy-natural-750",
+      "label": "Thick & Creamy Natural 750g",
+      "group": "Thick & Creamy",
+      "foodstuffs_ids": [
+        "5094115-EA-000"
+      ]
+    },
+    {
+      "key": "thick-creamy-1pc-750",
+      "label": "Thick & Creamy 1% Fat 750g",
+      "group": "Thick & Creamy",
+      "foodstuffs_ids": [
+        "5206253-EA-000"
+      ]
+    },
+    {
+      "key": "lactose-free-natural-750",
+      "label": "Lactose Free Natural 750g",
+      "group": "Lactose Free",
+      "foodstuffs_ids": [
+        "5307198-EA-000"
+      ]
+    },
+    {
+      "key": "lactose-free-natural-130",
+      "label": "Lactose Free Natural 130g",
+      "group": "Lactose Free",
+      "foodstuffs_ids": [
+        "5348581-EA-000"
+      ]
+    },
+    {
+      "key": "lactose-free-vanilla",
+      "label": "Lactose Free Vanilla",
+      "group": "Lactose Free",
+      "foodstuffs_ids": [
+        "5340788-EA-000"
+      ]
+    },
+    {
+      "key": "lactose-free-berry-500",
+      "label": "Lactose Free Mixed Berry 500g",
+      "group": "Lactose Free",
+      "foodstuffs_ids": [
+        "5328847-EA-000"
+      ]
+    },
+    {
+      "key": "lactose-free-berry-130",
+      "label": "Lactose Free Mixed Berry 130g",
+      "group": "Lactose Free",
+      "foodstuffs_ids": [
+        "5340786-EA-000"
+      ]
+    }
+  ],
+  "watch_ids": [],
+  "_notes": "Edit labels freely; keys must stay stable. Sheet variety column headers must match a label (or key). watch_ids are extra Foodstuffs IDs whose variety is not confirmed yet: they are queried and, if a store returns them, auto-added as a new variety (reported in the run summary)."
+}

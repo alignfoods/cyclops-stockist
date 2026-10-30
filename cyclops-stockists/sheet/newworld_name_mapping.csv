@@ -1,0 +1,13 @@
+Old map title,Old map address,New World store name (API),Foodstuffs store ID,Distance km,Note
+New World Stanmore,"288 Stanmore Road, Christchurch 8013 (03) 389 7617",New World Stanmore (Christchurch),a0d86b5f-fdf4-44d1-b7a2-f418bdb37f4e,0.0,Name differs only
+New World Supermarket Wanaka,20 Dunmore Street Wanaka 9305 New Zealand (03) 443 0048,New World Wanaka,341f876f-9a83-4882-aa79-5e5c9dc8fb2e,0.01,Name differs only
+New World Supermarket Blenheim,"4 Freswick Street, Blenheim 7201 (03) 520 9030",New World Blenheim,756356f9-9985-40c9-a368-bf1ea8072b0e,0.01,Name differs only
+New World Supermarket Matamata,"45 Waharoa Rd, Matamata 3400 (07) 881 9122",New World Matamata,524d7a29-550c-4d14-8f89-ec334a60cd6d,0.0,Name differs only
+New World Metro Queen Street,"125 Queen Street, Auckland, 0620 (09) 300 5390",New World Metro Queen St,60928d93-06fa-4d8f-92a6-8c359e7e846d,0.01,Name differs only
+New World Metro Willis Street,"68 - 70 Willis Street, Wellington 6011 (04) 471 6580",New World Metro Willis St,38b074c4-0e5a-4bd5-b743-d30f28d94982,0.0,Name differs only
+New World Mt Maunganui,"Cnr Tweed St & Maunganui Rd, Mt Maunganui 3116 (07) 572 7080",New World Mount Maunganui,de5595ab-1d28-46c6-9e9a-b1c3db1af827,0.0,Name differs only
+New World Mount Roskill,"53 May Road, Mt Roskill, Auckland 1041 (09) 621 2050",New World Mt Roskill,3ca6692b-e2a3-4d51-95b6-d061b9541e6c,0.01,Name differs only
+New World Porirua City,"Lyttelton Ave, Porirua 5022 (04) 237 0012",New World Porirua,1926eed9-3d44-4339-9f6e-23c96becab07,0.04,Name differs only
+New World Victoria Park,"2 College Hill, Freemans Bay, New Zealand , 1011 (09) 307 84",(not in New World store list),,,Not in New World store list: probably closed. The data job will not show it.
+New World Supermarket Waihi,"35 Kenny Street, Waihi 3610 (07) 863 7880",New World Waihi,2fe74bf7-5123-4faa-8fcb-97db954a714d,0.04,Name differs only
+(untitled marker),"271 High Street, Motueka 7120 (03) 528 6245",New World Motueka,b7fe0c9e-24e9-46f2-a59a-95dce1725b06,,Marker had no title. Address matches New World Motueka.
