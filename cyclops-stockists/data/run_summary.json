@@ -1,0 +1,55 @@
+{
+ "started_at": "2026-10-30T02:21:33Z",
+ "banners": {
+  "newworld": {
+   "stores_checked": 149,
+   "stores_with_cyclops": 149,
+   "lines": 822,
+   "errors": 0,
+   "requests": 152
+  },
+  "paknsave": {
+   "stores_checked": 58,
+   "stores_with_cyclops": 56,
+   "lines": 231,
+   "errors": 0,
+   "requests": 61
+  }
+ },
+ "sources": {
+  "newworld": "ok",
+  "paknsave": "ok",
+  "sheet": "ok (sheet/seed_sheet.csv; SHEET_CSV_URL not set)"
+ },
+ "warnings": [],
+ "new_product_ids": [],
+ "dropped_stores": [],
+ "pending_removal": [],
+ "added_stores": [
+  "New World Onekawa"
+ ],
+ "variety_changes": 4,
+ "sheet": {
+  "rows": 220,
+  "rows_with_varieties": 0,
+  "bad_rows": 0,
+  "unknown_columns": [],
+  "variety_columns": 11
+ },
+ "finished_at": "2026-10-30T02:31:52Z",
+ "duration_s": 618,
+ "stores_total": 425,
+ "stores_by_banner": {
+  "Campus & Co": 7,
+  "Farro": 7,
+  "FreshChoice": 14,
+  "Moore Wilson's": 4,
+  "New World": 149,
+  "PAK'nSAVE": 56,
+  "Reduced To Clear": 14,
+  "SuperValue": 1,
+  "Why Knot": 1,
+  "Woolworths": 172
+ },
+ "varieties_in_use": 12
+}
