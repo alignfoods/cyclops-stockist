@@ -1,17 +1,17 @@
 {
- "started_at": "2026-10-31T14:42:37Z",
+ "started_at": "2026-11-01T14:43:51Z",
  "banners": {
   "newworld": {
    "stores_checked": 149,
    "stores_with_cyclops": 149,
-   "lines": 844,
+   "lines": 842,
    "errors": 0,
    "requests": 152
   },
   "paknsave": {
    "stores_checked": 58,
-   "stores_with_cyclops": 56,
-   "lines": 235,
+   "stores_with_cyclops": 57,
+   "lines": 238,
    "errors": 0,
    "requests": 61
   }
@@ -25,8 +25,10 @@
  "new_product_ids": [],
  "dropped_stores": [],
  "pending_removal": [],
- "added_stores": [],
- "variety_changes": 25,
+ "added_stores": [
+  "PAK'nSAVE Clendon"
+ ],
+ "variety_changes": 13,
  "sheet": {
   "rows": 220,
   "rows_with_varieties": 0,
@@ -34,16 +36,16 @@
   "unknown_columns": [],
   "variety_columns": 11
  },
- "finished_at": "2026-10-31T14:53:30Z",
- "duration_s": 652,
- "stores_total": 425,
+ "finished_at": "2026-11-01T14:54:13Z",
+ "duration_s": 622,
+ "stores_total": 426,
  "stores_by_banner": {
   "Campus & Co": 7,
   "Farro": 7,
   "FreshChoice": 14,
   "Moore Wilson's": 4,
   "New World": 149,
-  "PAK'nSAVE": 56,
+  "PAK'nSAVE": 57,
   "Reduced To Clear": 14,
   "SuperValue": 1,
   "Why Knot": 1,
