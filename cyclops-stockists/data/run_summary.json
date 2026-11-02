@@ -1,17 +1,17 @@
 {
- "started_at": "2026-11-01T14:43:51Z",
+ "started_at": "2026-11-02T15:00:20Z",
  "banners": {
   "newworld": {
    "stores_checked": 149,
    "stores_with_cyclops": 149,
-   "lines": 842,
+   "lines": 852,
    "errors": 0,
    "requests": 152
   },
   "paknsave": {
    "stores_checked": 58,
-   "stores_with_cyclops": 57,
-   "lines": 238,
+   "stores_with_cyclops": 58,
+   "lines": 236,
    "errors": 0,
    "requests": 61
   }
@@ -26,9 +26,9 @@
  "dropped_stores": [],
  "pending_removal": [],
  "added_stores": [
-  "PAK'nSAVE Clendon"
+  "PAK'nSAVE Tamatea"
  ],
- "variety_changes": 13,
+ "variety_changes": 19,
  "sheet": {
   "rows": 220,
   "rows_with_varieties": 0,
@@ -36,16 +36,16 @@
   "unknown_columns": [],
   "variety_columns": 11
  },
- "finished_at": "2026-11-01T14:54:13Z",
- "duration_s": 622,
- "stores_total": 426,
+ "finished_at": "2026-11-02T15:11:14Z",
+ "duration_s": 654,
+ "stores_total": 427,
  "stores_by_banner": {
   "Campus & Co": 7,
   "Farro": 7,
   "FreshChoice": 14,
   "Moore Wilson's": 4,
   "New World": 149,
-  "PAK'nSAVE": 57,
+  "PAK'nSAVE": 58,
   "Reduced To Clear": 14,
   "SuperValue": 1,
   "Why Knot": 1,
