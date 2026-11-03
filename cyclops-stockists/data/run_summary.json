@@ -1,10 +1,10 @@
 {
- "started_at": "2026-11-02T15:00:20Z",
+ "started_at": "2026-11-03T14:59:03Z",
  "banners": {
   "newworld": {
    "stores_checked": 149,
    "stores_with_cyclops": 149,
-   "lines": 852,
+   "lines": 848,
    "errors": 0,
    "requests": 152
   },
@@ -25,10 +25,8 @@
  "new_product_ids": [],
  "dropped_stores": [],
  "pending_removal": [],
- "added_stores": [
-  "PAK'nSAVE Tamatea"
- ],
- "variety_changes": 19,
+ "added_stores": [],
+ "variety_changes": 21,
  "sheet": {
   "rows": 220,
   "rows_with_varieties": 0,
@@ -36,8 +34,8 @@
   "unknown_columns": [],
   "variety_columns": 11
  },
- "finished_at": "2026-11-02T15:11:14Z",
- "duration_s": 654,
+ "finished_at": "2026-11-03T15:09:47Z",
+ "duration_s": 644,
  "stores_total": 427,
  "stores_by_banner": {
   "Campus & Co": 7,
