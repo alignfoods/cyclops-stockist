@@ -1,9 +1,13 @@
 {
- "empty_runs": {},
+ "empty_runs": {
+  "newworld-04de234b-9f3e-4388-9662-7a4c8d7180c8": 1,
+  "newworld-11b389ec-b197-4476-9b7f-2eaeffa2c1c9": 1,
+  "newworld-b01a01ac-d6ef-45ef-b9fe-d66036d55b56": 1
+ },
  "discovered": {},
  "last_success": {
-  "newworld": "2026-11-03T15:06:44Z",
-  "paknsave": "2026-11-03T15:09:47Z",
-  "sheet": "2026-11-03T15:09:47Z"
+  "newworld": "2026-11-04T15:06:02Z",
+  "paknsave": "2026-11-04T15:08:58Z",
+  "sheet": "2026-11-04T15:08:58Z"
  }
 }
