@@ -68,18 +68,24 @@
     },
     {
       "key": "lactose-free-natural-130",
-      "label": "Lactose Free Natural 130g",
+      "label": "Lactose Free Natural Pouch 130g",
       "group": "Lactose Free",
       "foodstuffs_ids": [
         "5348581-EA-000"
+      ],
+      "aliases": [
+        "Lactose Free Natural 130g"
       ]
     },
     {
       "key": "lactose-free-vanilla",
-      "label": "Lactose Free Vanilla",
+      "label": "Lactose Free Vanilla Pouch 130g",
       "group": "Lactose Free",
       "foodstuffs_ids": [
         "5340788-EA-000"
+      ],
+      "aliases": [
+        "Lactose Free Vanilla"
       ]
     },
     {
@@ -92,10 +98,13 @@
     },
     {
       "key": "lactose-free-berry-130",
-      "label": "Lactose Free Mixed Berry 130g",
+      "label": "Lactose Free Mixed Berry Pouch 130g",
       "group": "Lactose Free",
       "foodstuffs_ids": [
         "5340786-EA-000"
+      ],
+      "aliases": [
+        "Lactose Free Mixed Berry 130g"
       ]
     }
   ],

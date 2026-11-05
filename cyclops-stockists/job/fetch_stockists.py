@@ -12,6 +12,7 @@ Standard library only. Env vars:
   DATA_DIR            output folder (default: ../data next to this script).
   BANNERS             comma list to limit sources, e.g. "newworld" (default: newworld,paknsave).
   MAX_STORES          testing only: limit stores per banner.
+  EXCLUDE_BANNERS     comma list of banners to leave off the map (default: Campus & Co).
 """
 import csv, io, json, os, random, re, sys, time, urllib.error, urllib.request
 from datetime import datetime, timezone
@@ -23,6 +24,8 @@ DELAY = min(3.0, max(2.0, float(os.environ.get("REQUEST_DELAY", "2.5"))))
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) "
       "Chrome/130.0 Safari/537.36 CyclopsStockistBot/1.0 (+https://cyclops.nz/stockists/)")
 EMPTY_RUNS_BEFORE_DROP = 3
+# Banners never shown on the map, whatever the sheet or APIs say. Override with env EXCLUDE_BANNERS (comma list).
+EXCLUDE_BANNERS = {b.strip().lower() for b in os.environ.get("EXCLUDE_BANNERS", "Campus & Co").split(",") if b.strip()}
 MAX_ERROR_RATIO = 0.3  # more store errors than this => treat whole banner as failed
 
 BANNERS = {
@@ -353,6 +356,8 @@ def main():
     for v in varieties:
         label_to_key[norm(v["label"])] = v["key"]
         label_to_key[norm(v["key"])] = v["key"]
+        for a in v.get("aliases", []):
+            label_to_key[norm(a)] = v["key"]
 
     sheet_url = os.environ.get("SHEET_CSV_URL", "").strip()
     seed = os.path.join(HERE, "..", "sheet", "seed_sheet.csv")
@@ -382,6 +387,11 @@ def main():
         summary["warnings"].append("all sources empty: kept previous stockists.json unchanged")
         new_stores = prev_by_id
 
+    excluded = [k for k, s in new_stores.items() if (s.get("banner") or "").strip().lower() in EXCLUDE_BANNERS]
+    for k in excluded:
+        del new_stores[k]
+    if excluded:
+        summary["warnings"].append(f"excluded {len(excluded)} stores by EXCLUDE_BANNERS")
     stores = sorted(new_stores.values(), key=lambda s: (s.get("banner", ""), s.get("name", "")))
     for s in stores:
         s.pop("_error", None)
