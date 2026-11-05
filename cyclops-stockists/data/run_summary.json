@@ -1,17 +1,17 @@
 {
- "started_at": "2026-11-04T14:58:38Z",
+ "started_at": "2026-11-05T20:01:17Z",
  "banners": {
   "newworld": {
    "stores_checked": 149,
-   "stores_with_cyclops": 146,
-   "lines": 834,
+   "stores_with_cyclops": 149,
+   "lines": 850,
    "errors": 0,
    "requests": 152
   },
   "paknsave": {
    "stores_checked": 58,
    "stores_with_cyclops": 58,
-   "lines": 237,
+   "lines": 239,
    "errors": 0,
    "requests": 61
   }
@@ -19,39 +19,32 @@
  "sources": {
   "newworld": "ok",
   "paknsave": "ok",
-  "sheet": "ok (sheet/seed_sheet.csv; SHEET_CSV_URL not set)"
+  "sheet": "ok"
  },
  "warnings": [],
  "new_product_ids": [],
  "dropped_stores": [],
- "pending_removal": [
-  "New World Merrilands (1/3)",
-  "New World Ohakune (1/3)",
-  "New World Pahiatua (1/3)"
- ],
+ "pending_removal": [],
  "added_stores": [],
- "variety_changes": 38,
+ "variety_changes": 35,
  "sheet": {
-  "rows": 220,
-  "rows_with_varieties": 0,
+  "rows": 215,
+  "rows_with_varieties": 200,
   "bad_rows": 0,
   "unknown_columns": [],
-  "variety_columns": 11
+  "variety_columns": 12
  },
- "finished_at": "2026-11-04T15:08:58Z",
- "duration_s": 620,
- "stores_total": 427,
+ "finished_at": "2026-11-05T20:11:39Z",
+ "duration_s": 622,
+ "stores_total": 422,
  "stores_by_banner": {
-  "Campus & Co": 7,
   "Farro": 7,
-  "FreshChoice": 14,
-  "Moore Wilson's": 4,
+  "FreshChoice": 27,
+  "Moore Wilson's": 1,
   "New World": 149,
   "PAK'nSAVE": 58,
   "Reduced To Clear": 14,
-  "SuperValue": 1,
-  "Why Knot": 1,
-  "Woolworths": 172
+  "Woolworths": 166
  },
  "varieties_in_use": 12
 }
