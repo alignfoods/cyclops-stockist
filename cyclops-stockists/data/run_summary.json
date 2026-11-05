@@ -1,17 +1,17 @@
 {
- "started_at": "2026-11-05T15:02:20Z",
+ "started_at": "2026-11-04T14:58:38Z",
  "banners": {
   "newworld": {
    "stores_checked": 149,
-   "stores_with_cyclops": 149,
-   "lines": 850,
+   "stores_with_cyclops": 146,
+   "lines": 834,
    "errors": 0,
    "requests": 152
   },
   "paknsave": {
    "stores_checked": 58,
    "stores_with_cyclops": 58,
-   "lines": 239,
+   "lines": 237,
    "errors": 0,
    "requests": 61
   }
@@ -24,9 +24,13 @@
  "warnings": [],
  "new_product_ids": [],
  "dropped_stores": [],
- "pending_removal": [],
+ "pending_removal": [
+  "New World Merrilands (1/3)",
+  "New World Ohakune (1/3)",
+  "New World Pahiatua (1/3)"
+ ],
  "added_stores": [],
- "variety_changes": 35,
+ "variety_changes": 38,
  "sheet": {
   "rows": 220,
   "rows_with_varieties": 0,
@@ -34,8 +38,8 @@
   "unknown_columns": [],
   "variety_columns": 11
  },
- "finished_at": "2026-11-05T15:13:17Z",
- "duration_s": 657,
+ "finished_at": "2026-11-04T15:08:58Z",
+ "duration_s": 620,
  "stores_total": 427,
  "stores_by_banner": {
   "Campus & Co": 7,
