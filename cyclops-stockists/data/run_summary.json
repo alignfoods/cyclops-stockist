@@ -1,17 +1,17 @@
 {
- "started_at": "2026-11-05T20:01:17Z",
+ "started_at": "2026-11-06T14:56:30Z",
  "banners": {
   "newworld": {
    "stores_checked": 149,
    "stores_with_cyclops": 149,
-   "lines": 850,
+   "lines": 849,
    "errors": 0,
    "requests": 152
   },
   "paknsave": {
    "stores_checked": 58,
    "stores_with_cyclops": 58,
-   "lines": 239,
+   "lines": 236,
    "errors": 0,
    "requests": 61
   }
@@ -26,7 +26,7 @@
  "dropped_stores": [],
  "pending_removal": [],
  "added_stores": [],
- "variety_changes": 35,
+ "variety_changes": 24,
  "sheet": {
   "rows": 215,
   "rows_with_varieties": 200,
@@ -34,8 +34,8 @@
   "unknown_columns": [],
   "variety_columns": 12
  },
- "finished_at": "2026-11-05T20:11:39Z",
- "duration_s": 622,
+ "finished_at": "2026-11-06T15:06:59Z",
+ "duration_s": 629,
  "stores_total": 422,
  "stores_by_banner": {
   "Farro": 7,
