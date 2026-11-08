@@ -1,9 +1,11 @@
 {
- "empty_runs": {},
+ "empty_runs": {
+  "newworld-b525d98f-8df5-415f-837e-abb793821e1e": 1
+ },
  "discovered": {},
  "last_success": {
-  "newworld": "2026-11-07T14:54:53Z",
-  "paknsave": "2026-11-07T14:57:50Z",
-  "sheet": "2026-11-07T14:57:51Z"
+  "newworld": "2026-11-08T14:53:55Z",
+  "paknsave": "2026-11-08T14:56:57Z",
+  "sheet": "2026-11-08T14:56:58Z"
  }
 }
