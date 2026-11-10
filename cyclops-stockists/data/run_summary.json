@@ -1,17 +1,17 @@
 {
- "started_at": "2026-11-09T15:00:15Z",
+ "started_at": "2026-11-10T14:58:55Z",
  "banners": {
   "newworld": {
    "stores_checked": 149,
-   "stores_with_cyclops": 148,
-   "lines": 848,
+   "stores_with_cyclops": 149,
+   "lines": 852,
    "errors": 0,
    "requests": 152
   },
   "paknsave": {
    "stores_checked": 58,
    "stores_with_cyclops": 58,
-   "lines": 245,
+   "lines": 246,
    "errors": 0,
    "requests": 61
   }
@@ -24,11 +24,9 @@
  "warnings": [],
  "new_product_ids": [],
  "dropped_stores": [],
- "pending_removal": [
-  "New World Turangi (1/3)"
- ],
+ "pending_removal": [],
  "added_stores": [],
- "variety_changes": 46,
+ "variety_changes": 32,
  "sheet": {
   "rows": 215,
   "rows_with_varieties": 200,
@@ -36,8 +34,8 @@
   "unknown_columns": [],
   "variety_columns": 12
  },
- "finished_at": "2026-11-09T15:10:47Z",
- "duration_s": 632,
+ "finished_at": "2026-11-10T15:09:48Z",
+ "duration_s": 652,
  "stores_total": 422,
  "stores_by_banner": {
   "Farro": 7,
