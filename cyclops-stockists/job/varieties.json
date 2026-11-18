@@ -106,6 +106,46 @@
       "aliases": [
         "Lactose Free Mixed Berry 130g"
       ]
+    },
+    {
+      "key": "garlic-dip-275",
+      "label": "Garlic Dip 275g",
+      "group": "Dips",
+      "foodstuffs_ids": [
+        "5354159-EA-000"
+      ],
+      "aliases": [
+        "Garlic Greek Yoghurt Dip",
+        "Dip Garlic",
+        "Garlic Dip"
+      ]
+    },
+    {
+      "key": "sweet-chilli-dip-275",
+      "label": "Sweet Chilli Dip 275g",
+      "group": "Dips",
+      "foodstuffs_ids": [
+        "5354158-EA-000"
+      ],
+      "aliases": [
+        "Sweet Chilli Greek Yoghurt Dip",
+        "Dip Sweet Chilli",
+        "Sweet Chilli Dip"
+      ]
+    },
+    {
+      "key": "ploughmans-dip-275",
+      "label": "Ploughman's Dip 275g",
+      "group": "Dips",
+      "foodstuffs_ids": [
+        "5354157-EA-000"
+      ],
+      "aliases": [
+        "Ploughman's Greek Yoghurt Dip",
+        "Ploughmans Chutney Dip",
+        "Dip Ploughmans",
+        "Ploughman's Dip"
+      ]
     }
   ],
   "watch_ids": [],
