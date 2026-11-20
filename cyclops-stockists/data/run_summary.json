@@ -1,17 +1,17 @@
 {
- "started_at": "2026-11-19T15:02:33Z",
+ "started_at": "2026-11-20T15:01:38Z",
  "banners": {
   "newworld": {
    "stores_checked": 149,
-   "stores_with_cyclops": 147,
-   "lines": 875,
+   "stores_with_cyclops": 149,
+   "lines": 872,
    "errors": 0,
    "requests": 152
   },
   "paknsave": {
    "stores_checked": 58,
    "stores_with_cyclops": 58,
-   "lines": 258,
+   "lines": 252,
    "errors": 0,
    "requests": 61
   }
@@ -23,14 +23,12 @@
  },
  "warnings": [],
  "new_product_ids": [],
- "dropped_stores": [
+ "dropped_stores": [],
+ "pending_removal": [],
+ "added_stores": [
   "New World Turangi"
  ],
- "pending_removal": [
-  "New World Ohakune (1/3)"
- ],
- "added_stores": [],
- "variety_changes": 26,
+ "variety_changes": 22,
  "sheet": {
   "rows": 215,
   "rows_with_varieties": 200,
@@ -38,14 +36,14 @@
   "unknown_columns": [],
   "variety_columns": 15
  },
- "finished_at": "2026-11-19T15:12:57Z",
- "duration_s": 624,
- "stores_total": 421,
+ "finished_at": "2026-11-20T15:12:24Z",
+ "duration_s": 646,
+ "stores_total": 422,
  "stores_by_banner": {
   "Farro": 7,
   "FreshChoice": 27,
   "Moore Wilson's": 1,
-  "New World": 148,
+  "New World": 149,
   "PAK'nSAVE": 58,
   "Reduced To Clear": 14,
   "Woolworths": 166
