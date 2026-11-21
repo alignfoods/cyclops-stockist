@@ -1,12 +1,11 @@
-## Cyclops stockists run 2026-11-20T15:01:38Z
+## Cyclops stockists run 2026-11-21T14:56:23Z
 
 - Stores on map: **422** (Farro 7, FreshChoice 27, Moore Wilson's 1, New World 149, PAK'nSAVE 58, Reduced To Clear 14, Woolworths 166)
-- Duration: 646 s
+- Duration: 638 s
 - Source `newworld`: ok
 - Source `paknsave`: ok
 - Source `sheet`: ok
-- newworld: 149 stores checked, 149 with Cyclops, 872 lines, 0 errors, 152 requests
-- paknsave: 58 stores checked, 58 with Cyclops, 252 lines, 0 errors, 61 requests
+- newworld: 149 stores checked, 149 with Cyclops, 892 lines, 0 errors, 152 requests
+- paknsave: 58 stores checked, 58 with Cyclops, 257 lines, 0 errors, 61 requests
 - Sheet: 215 rows, 200 with varieties ticked, 0 rows skipped (bad lat/lng)
-- New stores (1): New World Turangi
-- Stores whose variety list changed: 22
+- Stores whose variety list changed: 27
